@@ -1,4 +1,4 @@
-**Instagram Clone - Tela de Login e Home (React Native)
+**Instagram Clone - Tela de Login e Home (React Native)**
 🎯 Descrição do Projeto
 
 Este projeto é uma replicação das telas de Login e Home do Instagram utilizando React Native, sem conexão com backend.
