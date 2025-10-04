@@ -29,7 +29,7 @@ O objetivo é praticar **desenvolvimento de interfaces móveis**, **navegação 
 
 **1. Clone o repositório:**
 ```bash
-git clone [<URL_DO_REPOSITORIO>](https://github.com/LeonardoProdossimo/trabalho_instagram.git)
+git clone https://github.com/LeonardoProdossimo/trabalho_instagram.git
 ```
 
 2. Instale as dependências:
