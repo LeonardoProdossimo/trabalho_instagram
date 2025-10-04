@@ -41,20 +41,3 @@ npm install
 ```bash
 npx expo start
 ```
-
-Abra no simulador ou dispositivo, clique em Entrar na tela de login para acessar a Home.
-
-## 📝 Observações
-
-Este projeto é apenas uma simulação visual, sem backend ou autenticação real.
-
-Ideal para estudos de UI/UX e navegação em React Native.
-
-Pode ser expandido futuramente para incluir funcionalidades reais de login e feed de posts.
-
-
----
-
-Se quiser, posso fazer **uma segunda versão ainda mais visual**, com **GIFs, cores e seções destacadas** que deixam o README estilo **portfolio profissional**.  
-
-Quer que eu faça essa versão?
