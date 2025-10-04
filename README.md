@@ -1,63 +1,72 @@
-**Instagram Clone - Tela de Login e Home (React Native)**
-🎯 Descrição do Projeto
+# **Instagram Clone - Tela de Login e Home (React Native)**
 
-Este projeto é uma replicação das telas de Login e Home do Instagram utilizando React Native, sem conexão com backend.
-O objetivo é praticar desenvolvimento de interfaces móveis, navegação entre telas e estilo visual similar ao Instagram.
+## 🎯 **Descrição do Projeto**
+Este projeto é uma **replicação das telas de Login e Home do Instagram** utilizando **React Native**, sem conexão com backend.  
+O objetivo é praticar **desenvolvimento de interfaces móveis**, **navegação entre telas** e **estilo visual similar ao Instagram**.
 
-🚀 Funcionalidades
+---
 
-Tela de Login
+## 🚀 **Funcionalidades**
 
-Campos de usuário e senha apenas visuais.
+**Tela de Login**
+- Campos de usuário e senha apenas visuais.
+- Botão **Entrar** leva diretamente à tela Home, sem validação.
 
-Botão Entrar leva diretamente à tela Home, sem validação.
+**Tela Home**
+- Interface visual similar ao Instagram.
+- Navegação básica funcionando, sem funcionalidades reais de rede social.
 
-Tela Home
+---
 
-Interface visual similar ao Instagram.
+## 🛠 **Tecnologias Utilizadas**
+- **React Native**
+- **Expo** (para rodar o app facilmente)
+- **React Navigation** (para navegação entre telas)
 
-Navegação básica funcionando, sem funcionalidades reais de rede social.
+---
 
-🛠 Tecnologias Utilizadas
+## 📸 **Demonstração**
+**Login**  
+![Login](./assets/login.png)  
 
-React Native
+**Home**  
+![Home](./assets/home.png)  
 
-Expo (para rodar o app facilmente)
+> 💡 Se tiver, substitua as imagens por um **GIF animado** mostrando a transição Login → Home:  
+> ![Demo](./assets/demo.gif)
 
-React Navigation (para navegação entre telas)
+---
 
-📸 Demonstração
-Login
+## ⚡ **Como Rodar o Projeto**
 
-Home
-
-💡 Se quiser deixar ainda mais visual, você pode substituir essas imagens por um GIF do app funcionando.
-Exemplo de GIF animado mostrando a transição Login → Home:
-
-
-⚡ Como Rodar o Projeto
-
-Clone o repositório:
-
+**1. Clone o repositório:**
+```bash
 git clone <URL_DO_REPOSITORIO>
+```
 
-
-Instale as dependências:
-
+2. Instale as dependências:
+```bash
 npm install
+```
 
-
-Rode o app:
-
+3. Rode o app:
+```bash
 npx expo start
-
+```
 
 Abra no simulador ou dispositivo, clique em Entrar na tela de login para acessar a Home.
 
-📝 Observações
+## 📝 Observações
 
 Este projeto é apenas uma simulação visual, sem backend ou autenticação real.
 
 Ideal para estudos de UI/UX e navegação em React Native.
 
-Pode ser expandido futuramente para incluir funcionalidades reais de login e feed de posts.# trabalho_instagram
+Pode ser expandido futuramente para incluir funcionalidades reais de login e feed de posts.
+
+
+---
+
+Se quiser, posso fazer **uma segunda versão ainda mais visual**, com **GIFs, cores e seções destacadas** que deixam o README estilo **portfolio profissional**.  
+
+Quer que eu faça essa versão?
