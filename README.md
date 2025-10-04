@@ -25,18 +25,6 @@ O objetivo é praticar **desenvolvimento de interfaces móveis**, **navegação 
 
 ---
 
-## 📸 **Demonstração**
-**Login**  
-![Login](./assets/login.png)  
-
-**Home**  
-![Home](./assets/home.png)  
-
-> 💡 Se tiver, substitua as imagens por um **GIF animado** mostrando a transição Login → Home:  
-> ![Demo](./assets/demo.gif)
-
----
-
 ## ⚡ **Como Rodar o Projeto**
 
 **1. Clone o repositório:**
